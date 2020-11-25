@@ -1,0 +1,33 @@
+<?php
+$hastaQueNumero = 10;
+?>
+
+
+
+<html>
+
+<head></head>
+
+<body>
+
+<ul>
+
+    <?php for ($i = 1; $i <= $hastaQueNumero; $i++) { ?>
+        <li><?= $i ?></li>
+    <?php } ?>
+
+</ul>
+
+<ul>
+
+    <?php
+    for ($i = 1; $i <= $hastaQueNumero; $i++) {
+        echo $i."<br>";
+    }
+    ?>
+
+</ul>
+
+</body>
+
+</html>

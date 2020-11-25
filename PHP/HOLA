@@ -1,0 +1,46 @@
+<?php
+$acumulado=0;
+
+
+
+?>
+<html>
+
+<head>
+    <form id="&acumulado">
+
+
+        <input type='submit' name='boton' value="Enviar" />
+<script>
+
+    document.getElementById("pideNum").step="0";
+
+
+    <script/>
+
+
+
+<body>
+
+<?
+
+?>
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+</head>
+
+
+
+
+</html>
